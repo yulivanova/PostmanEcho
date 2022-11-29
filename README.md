@@ -1,1 +1,1 @@
-Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/w2fgpx2c4o6jvw47?svg=true)](https://ci.appveyor.com/project/yulivanova/api-ci)
+Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/igbv7dqwkrd5saam?svg=true)](https://ci.appveyor.com/project/yulivanova/postmanecho)
